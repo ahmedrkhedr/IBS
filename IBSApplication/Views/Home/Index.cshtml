@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Index";   
+}
+<html>
+<head>
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Controllers/AppLogic/Greetings.js"></script>
+</head>
+<body ng-app="myApp">
+
+  
+    <div ng-controller='HelloController' class="jumbotron">
+        <h2>{{greeting.text}}</h2>   
+    </div>
+</body>
+</html>

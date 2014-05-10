@@ -1,0 +1,20 @@
+c:\users\ahmed\documents\visual studio 2012\Projects\IBS\DAL\bin\Debug\DAL.dll
+c:\users\ahmed\documents\visual studio 2012\Projects\IBS\DAL\bin\Debug\DAL.pdb
+c:\users\ahmed\documents\visual studio 2012\Projects\IBS\DAL\obj\Debug\DAL.dll
+c:\users\ahmed\documents\visual studio 2012\Projects\IBS\DAL\obj\Debug\DAL.pdb
+c:\users\ahmed\documents\visual studio 2012\Projects\IBS\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ahmed\Desktop\My Work\IBS\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ahmed\Desktop\My Work\IBS\DAL\bin\Debug\DAL.dll
+C:\Users\Ahmed\Desktop\My Work\IBS\DAL\bin\Debug\DAL.pdb
+C:\Users\Ahmed\Desktop\My Work\IBS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\My Work\IBS\DAL\obj\Debug\DAL.dll
+C:\Users\Ahmed\Desktop\My Work\IBS\DAL\obj\Debug\DAL.pdb
+C:\Users\Ahmed\Desktop\My AngularJS Bench\IBS\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ahmed\Desktop\My AngularJS Bench\IBS\DAL\bin\Debug\DAL.dll
+C:\Users\Ahmed\Desktop\My AngularJS Bench\IBS\DAL\bin\Debug\DAL.pdb
+C:\Users\Ahmed\Desktop\My AngularJS Bench\IBS\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ahmed\Desktop\My AngularJS Bench\IBS\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ahmed\Desktop\My AngularJS Bench\IBS\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ahmed\Desktop\My AngularJS Bench\IBS\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ahmed\Desktop\My AngularJS Bench\IBS\DAL\obj\Debug\DAL.dll
+C:\Users\Ahmed\Desktop\My AngularJS Bench\IBS\DAL\obj\Debug\DAL.pdb
