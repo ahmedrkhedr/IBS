@@ -1,2 +1,25 @@
 # git ignore file
+ReSharper.*
+_TeamCity.*
+*.suo
 *.cache
+*.Cache
+*.user
+*.orig
+*.tmp
+*.svclog
+*.pdb
+*_.g
+*.tokens
+log/
+packages/
+version.txt
+Harvested.wxs
+IBSApplication/obj/
+IBSApplication/bin/
+WEBPRJCTA.Tests/obj/
+WEBPRJCTA.Tests/bin/
+WEBPRJCTA/bin/
+WEBPRJCTA/obj/
+DAL/bin/
+DAL/obj/
