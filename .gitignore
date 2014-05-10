@@ -23,3 +23,5 @@ WEBPRJCTA/bin/
 WEBPRJCTA/obj/
 DAL/bin/
 DAL/obj/
+*.mdf
+*.ldf
