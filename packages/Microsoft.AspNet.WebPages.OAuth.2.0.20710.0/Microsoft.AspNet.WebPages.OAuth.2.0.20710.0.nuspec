@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Microsoft.AspNet.WebPages.OAuth</id>
     <version>2.0.20710.0</version>
@@ -16,6 +16,5 @@
       <dependency id="Microsoft.AspNet.WebPages.WebData" version="[2.0.20710.0, 2.1)" />
       <dependency id="DotNetOpenAuth.AspNet" version="4.0.3.12153" />
     </dependencies>
-    <references />
   </metadata>
 </package>
